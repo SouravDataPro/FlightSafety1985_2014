@@ -1,2 +1,3 @@
 # FlightSafety1985_2014
 "This is a project where I’m exploring airline safety data from 1985 to 2014. I'm still learning, but I wanted to look at real-world stuff and see how flight safety has changed over time. Just trying to get better at data analysis while working on something interesting."
+"This is a personal project where I explore airline safety data from 1985 to 2014. I'm a student learning data science and big data analysis, and I wanted to work on something real and meaningful. This project is part of my learning journey — everything here is done by me as I build my skills and grow in this field."
